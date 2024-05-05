@@ -160,6 +160,7 @@ void revtraverse()
 			currentNode = currentNode->prev;
 		}
 	}
+
 }
 
 void searchData()
